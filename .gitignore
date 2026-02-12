@@ -1,0 +1,112 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+*.egg
+MANIFEST
+pip-wheel-metadata/
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+.pytest_cache/
+.hypothesis/
+.coverage
+.coverage.*
+coverage.xml
+nosetests.xml
+*.cover
+*.py,cover
+htmlcov/
+
+# Type checker / lint caches
+.mypy_cache/
+.ruff_cache/
+.pyre/
+.pytype/
+
+# tox / nox
+.tox/
+.nox/
+
+# PyBuilder
+.pybuilder/
+target/
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# pyenv
+.python-version
+
+# PEP 582
+__pypackages__/
+
+# Local test and runtime temp outputs
+tmp/
+temp/
+*.tmp
+*.log
+
+# dotenv files
+.env
+.env.*
+*.env
+
+# IDEs and editors
+.idea/
+.vscode/
+*.iml
+*.suo
+*.user
+*.userossc
+*.sln.docstates
+*.swp
+*.swo
+*~
+
+# OS-generated files
+.DS_Store
+.DS_Store?
+Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+.Spotlight-V100/
+.Trashes/
+
+# Project-local tooling
+.cache/
+.coverage.d/
+
+# Docker and container leftovers
+*.tar
+*.pid
